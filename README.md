@@ -7,6 +7,9 @@
 
 3- Hashing the extracted data with a Perceptual Hashing Algorithm.
 
-4- A test Song is given to the application with extraction of its Hash the matches are found.</n>
-5- Matching percentages are calculated according to a distance Hamming function.</n>
-6- A testing mechanism is implemented by mixing two Audio files then this mix is given to the application to find it's matches in the database.</n>
+4- A test Song is given to the application with extraction of its Hash the matches are found.
+
+5- Matching percentages are calculated according to a distance Hamming function.
+
+6- A testing mechanism is implemented by mixing two Audio files then this mix is given to the application to find it's matches in the database.
+
