@@ -1,5 +1,5 @@
 # Shazam-imitation-Voice-Recognition
-## A basic implementation of shazam like  audio Recognition algorithm, it utilizes the advantages of a spectrogram and perceptual hashing :
+ A basic implementation of shazam like  audio Recognition algorithm, it utilizes the advantages of a spectrogram and perceptual hashing :</n>
 
 1- A database is formed of 241 songs (mp3 audio File) separated to their Vocals and music.
 2- Extraction of Spectrogram and spectral Features (Spectral centroid,Spectral Rolloff,Mel frequency Coefficient and Chroma STFT) is executed.
