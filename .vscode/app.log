@@ -1,0 +1,73 @@
+864 - DEBUG - uiname is MainWindow
+824 - DEBUG - toplevel widget is MainWindow
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property windowTitle
+108 - DEBUG - push MainWindow MainWindow
+108 - DEBUG - push QWidget centralwidget
+400 - DEBUG - setting property pyuicMargins
+108 - DEBUG - push QGridLayout gridLayout
+400 - DEBUG - setting property orientation
+108 - DEBUG - push QSplitter splitter
+108 - DEBUG - push QWidget widget
+400 - DEBUG - setting property pyuicMargins
+108 - DEBUG - push QVBoxLayout verticalLayout
+108 - DEBUG - push QComboBox choose_method
+122 - DEBUG - pop widget QComboBox choose_method
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EA60>
+400 - DEBUG - setting property text
+108 - DEBUG - push QPushButton open_mix1
+122 - DEBUG - pop widget QPushButton open_mix1
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EA60>
+400 - DEBUG - setting property text
+108 - DEBUG - push QPushButton open_mix2
+122 - DEBUG - pop widget QPushButton open_mix2
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EA60>
+400 - DEBUG - setting property orientation
+108 - DEBUG - push QSlider Mixer_songs
+122 - DEBUG - pop widget QSlider Mixer_songs
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EA60>
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel percentagemix
+122 - DEBUG - pop widget QLabel percentagemix
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EA60>
+116 - DEBUG - pop layout QVBoxLayout verticalLayout
+122 - DEBUG - pop widget QWidget widget
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QSplitter object at 0x00000177E3C5E9D0>
+108 - DEBUG - push QWidget widget1
+400 - DEBUG - setting property pyuicMargins
+108 - DEBUG - push QVBoxLayout verticalLayout_2
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel similarity_output
+122 - DEBUG - pop widget QLabel similarity_output
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EEE0>
+108 - DEBUG - push QTableWidget similarity_output_table
+122 - DEBUG - pop widget QTableWidget similarity_output_table
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EEE0>
+400 - DEBUG - setting property text
+108 - DEBUG - push QPushButton show_results
+122 - DEBUG - pop widget QPushButton show_results
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3C5EEE0>
+116 - DEBUG - pop layout QVBoxLayout verticalLayout_2
+122 - DEBUG - pop widget QWidget widget1
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QSplitter object at 0x00000177E3C5E9D0>
+122 - DEBUG - pop widget QSplitter splitter
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x00000177E3AC3EE0>
+116 - DEBUG - pop layout QGridLayout gridLayout
+122 - DEBUG - pop widget QWidget centralwidget
+130 - DEBUG - new topwidget <__main__.MainWindow object at 0x00000177E3AC3DC0>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QMenuBar menubar
+400 - DEBUG - setting property title
+108 - DEBUG - push QMenu menuOpen_Songs
+122 - DEBUG - pop widget QMenu menuOpen_Songs
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QMenuBar object at 0x00000177E3DC3CA0>
+122 - DEBUG - pop widget QMenuBar menubar
+130 - DEBUG - new topwidget <__main__.MainWindow object at 0x00000177E3AC3DC0>
+108 - DEBUG - push QStatusBar statusbar
+122 - DEBUG - pop widget QStatusBar statusbar
+130 - DEBUG - new topwidget <__main__.MainWindow object at 0x00000177E3AC3DC0>
+122 - DEBUG - pop widget MainWindow MainWindow
+130 - DEBUG - new topwidget None
+839 - DEBUG - add action menuOpen_Songs to menubar
+50 - INFO - The Application started successfully
